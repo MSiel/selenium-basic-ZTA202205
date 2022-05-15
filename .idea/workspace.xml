@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d2e4d32-5559-4885-81fa-bbd4408a6396" name="Changes" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Kalkulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KalkulatorTest.java" afterDir="false" />
+    <list default="true" id="0d2e4d32-5559-4885-81fa-bbd4408a6396" name="Changes" comment="Kalkulator test, tbd">
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasicSeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FormTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ObslugaTabelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +46,72 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.ObslugaTabelTest">
+    <configuration name="AlertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-basic-ZTA202205" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlertTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicSeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-basic-ZTA202205" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicSeleniumTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-basic-ZTA202205" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FormTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IFrameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-basic-ZTA202205" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IFrameTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObslugaTabelTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-basic-ZTA202205" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ObslugaTabelTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ObslugaTabelTest" />
+        <item itemvalue="TestNG.IFrameTest" />
+        <item itemvalue="TestNG.AlertTest" />
+        <item itemvalue="TestNG.FormTest" />
+        <item itemvalue="TestNG.BasicSeleniumTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652562459891</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Kalkulator test, tbd">
+      <created>1652599354656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652599354656</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +161,7 @@
     <MESSAGE value="init commit&#10;java.lang" />
     <MESSAGE value="zmiany w pom.xml - dependencies" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="Kalkulator test, tbd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kalkulator test, tbd" />
   </component>
 </project>
