@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d2e4d32-5559-4885-81fa-bbd4408a6396" name="Changes" comment="Kalkulator test, tbd">
-      <change afterPath="$PROJECT_DIR$/src/test/java/AlertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicSeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FormTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IFrameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ObslugaTabelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
+    <list default="true" id="0d2e4d32-5559-4885-81fa-bbd4408a6396" name="Changes" comment="dz4">
+      <change afterPath="$PROJECT_DIR$/src/test/java/DragNDropTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KeysTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.ObslugaTabelTest">
+}</component>
+  <component name="RunManager" selected="TestNG.DragNDropTest">
     <configuration name="AlertTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
@@ -58,21 +56,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicSeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DragNDropTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BasicSeleniumTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FormTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-basic-ZTA202205" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FormTest" />
+      <option name="MAIN_CLASS_NAME" value="DragNDropTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -84,6 +71,17 @@
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="IFrameTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeysTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-basic-ZTA202205" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KeysTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -104,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DragNDropTest" />
+        <item itemvalue="TestNG.KeysTest" />
         <item itemvalue="TestNG.ObslugaTabelTest" />
         <item itemvalue="TestNG.IFrameTest" />
         <item itemvalue="TestNG.AlertTest" />
-        <item itemvalue="TestNG.FormTest" />
-        <item itemvalue="TestNG.BasicSeleniumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652599354656</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dz4">
+      <created>1652618941071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652618941071</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dz4">
+      <created>1652619019931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652619019931</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +174,7 @@
     <MESSAGE value="zmiany w pom.xml - dependencies" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="Kalkulator test, tbd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kalkulator test, tbd" />
+    <MESSAGE value="dz4" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz4" />
   </component>
 </project>
