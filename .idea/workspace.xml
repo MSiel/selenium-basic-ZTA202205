@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d2e4d32-5559-4885-81fa-bbd4408a6396" name="Changes" comment="dz4">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DragNDropTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KeysTest.java" afterDir="false" />
+    <list default="true" id="0d2e4d32-5559-4885-81fa-bbd4408a6396" name="Changes" comment="dz4 - na koniec dnia">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Dz5ExplicitProgressBarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Dz5ExplicitWaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Dz5MyStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Dz5SklepQuantityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Dz5SklepTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +46,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.DragNDropTest">
-    <configuration name="AlertTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Dz5MyStoreTest">
+    <configuration name="Dz5ExplicitProgressBarTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AlertTest" />
+      <option name="MAIN_CLASS_NAME" value="Dz5ExplicitProgressBarTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -56,10 +58,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DragNDropTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Dz5ExplicitWaitTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DragNDropTest" />
+      <option name="MAIN_CLASS_NAME" value="Dz5ExplicitWaitTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -67,10 +69,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IFrameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Dz5MyStoreTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IFrameTest" />
+      <option name="MAIN_CLASS_NAME" value="Dz5MyStoreTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -78,10 +80,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeysTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Dz5SklepQuantityTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KeysTest" />
+      <option name="MAIN_CLASS_NAME" value="Dz5SklepQuantityTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -89,10 +91,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObslugaTabelTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Dz5SklepTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-basic-ZTA202205" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ObslugaTabelTest" />
+      <option name="MAIN_CLASS_NAME" value="Dz5SklepTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -102,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DragNDropTest" />
-        <item itemvalue="TestNG.KeysTest" />
-        <item itemvalue="TestNG.ObslugaTabelTest" />
-        <item itemvalue="TestNG.IFrameTest" />
-        <item itemvalue="TestNG.AlertTest" />
+        <item itemvalue="TestNG.Dz5MyStoreTest" />
+        <item itemvalue="TestNG.Dz5SklepTest" />
+        <item itemvalue="TestNG.Dz5SklepQuantityTest" />
+        <item itemvalue="TestNG.Dz5ExplicitProgressBarTest" />
+        <item itemvalue="TestNG.Dz5ExplicitWaitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652619019931</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dz4 - na koniec dnia">
+      <created>1652626076403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652626076403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +184,7 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="Kalkulator test, tbd" />
     <MESSAGE value="dz4" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz4" />
+    <MESSAGE value="dz4 - na koniec dnia" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz4 - na koniec dnia" />
   </component>
 </project>

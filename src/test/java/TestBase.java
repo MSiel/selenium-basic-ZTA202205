@@ -13,7 +13,9 @@ public class TestBase {
 
     Logger logger = LoggerFactory.getLogger(this.getClass());
 
-
+    //dzien 5
+    public final int IMPLICIT_WAIT_TIME_SEC = 5;
+    //-----
 
     @BeforeClass
     public void setupDriverManager() {
